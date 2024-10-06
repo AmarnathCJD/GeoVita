@@ -1,0 +1,4 @@
+aiohttp
+google-generativeai
+meteomatics-api
+python-dotenv
